@@ -9,6 +9,9 @@ function Hero() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1 }}
       >
+
+        <img src="/profile.jpg" alt="Profile" className="profile-pic" />
+
         <h1>
           Hi, I'm <span>Rhancel Jess L. Aurea</span>
         </h1>
